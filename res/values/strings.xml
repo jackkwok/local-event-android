@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nearby Events</string>
+    <string name="events_list_title">Nearby Events</string>
+    <string name="error_io">Application encountered network errors.  Please try again later.</string>
+    <string name="error_url">Application encountered an error.  Please try again later.</string>
+    <string name="error_location">Unable to retrieve location.  Please ensure your GPS is enabled.</string>
+    <string name="error_parse">Application encountered errors while processing web data.  Please try again later.</string>
+    <string name="error_unknown">Sorry Application encountered generic error.  Please restart application.</string>
+</resources>
